@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin Jong (@GitKevin2)
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Game Development and Programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kevjon15@student.wintec.ac.nz
