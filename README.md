@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kevin Jong (@GitKevin2)
 - 👀 I’m interested in Game Development and Programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kevjon15@student.wintec.ac.nz
+- 📫 How to reach me kevjon15@student.wintec.ac.nz or kevinjong00@gmail.com
 
 <!---
 GitKevin2/GitKevin2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
