@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin Jong (@GitKevin2)
 - 👀 I’m interested in Game Development and Programming
-- 🌱 I’m currently learning C# and Unity
+- 🌱 I’m currently learning C#, Android Studio, and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kevjon15@student.wintec.ac.nz or kevinjong00@gmail.com
 
